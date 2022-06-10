@@ -1,0 +1,26 @@
+blockquote, .p_plus_img, .text {
+    width: 70vw;
+    position: relative;
+    right: -15%;
+}
+h1, h2, h3, blockquote, table, h2 + ol, ul {
+    position: relative;
+    right: -15%;
+}
+figure {
+    position: relative;
+    float: right; 
+    margin: 0 0 [x] [y];
+}
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    font-size: 32px;
+}
+table, th, td, caption {
+    border: 1px solid black;
+}
+figcaption {
+font-style: oblique;
+}
